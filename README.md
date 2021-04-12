@@ -1,2 +1,2 @@
 # wpu-series
-contoh
+contoh belajar git
